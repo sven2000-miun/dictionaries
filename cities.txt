@@ -12080,7 +12080,6 @@ carr
 cascade
 castle rock
 cedaredge
-center
 central city
 chama
 cheraw
@@ -18072,7 +18071,6 @@ catlettsburg
 cave city
 cawood
 cecilia
-center
 centertown
 central city
 cerulean
@@ -23029,7 +23027,6 @@ caulfield
 cedar city
 cedar hill
 cedarcreek
-center
 centertown
 centerview
 centerville
@@ -24295,7 +24292,6 @@ carroll
 cedar bluffs
 cedar creek
 cedar rapids
-center
 central city
 ceresco
 chadron
@@ -28410,7 +28406,6 @@ winnabow
 winston salem
 winterville
 winton
-wise
 woodland
 woodleaf
 wrightsville beach
@@ -28483,7 +28478,6 @@ casselton
 cathay
 cavalier
 cayuga
-center
 chaffee
 chaseley
 christine
@@ -34320,7 +34314,6 @@ cedar park
 cee vee
 celeste
 celina
-center
 center point
 centerville
 centralia
@@ -37786,7 +37779,6 @@ piney view
 pipestem
 poca
 point pleasant
-points
 pond gap
 pool
 porters falls

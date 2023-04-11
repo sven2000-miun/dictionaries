@@ -41,7 +41,6 @@ an
 ap
 ar
 as
-at
 au
 av
 aw
@@ -266,7 +265,6 @@ nz
 ob
 oc
 oe
-of
 og
 oh
 ok

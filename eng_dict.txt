@@ -494,6 +494,7 @@ asthma
 astrology
 astronomy
 asus
+at
 athletes
 athletic
 athletics
@@ -1075,6 +1076,7 @@ celtic
 cemetery
 census
 cent
+center
 centered
 centers
 centres
@@ -1256,6 +1258,7 @@ clip
 clips
 clock
 clocks
+clockwise
 clone
 close
 closed
@@ -1430,6 +1433,7 @@ composition
 compound
 compounds
 comprehensive
+compres
 compressed
 compression
 compromise
@@ -2081,6 +2085,7 @@ displayed
 displaying
 displays
 disposal
+disposable
 disposition
 dispute
 disputes
@@ -3313,6 +3318,7 @@ hopes
 hoping
 horizon
 horizontal
+horizontally
 hormone
 horn
 horny
@@ -4608,6 +4614,7 @@ oclc
 october
 odds
 oecd
+of
 offense
 offensive
 offer
@@ -5041,6 +5048,7 @@ point;10
 pointed;9
 pointer;9
 pointing
+points
 pokemon
 poker
 polar
@@ -5846,6 +5854,7 @@ rosa
 roses
 roster
 rotary
+rotate
 rotation
 rouge
 rough
