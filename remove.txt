@@ -41,6 +41,10 @@ an
 ap
 ar
 as
+<<<<<<< HEAD
+=======
+at
+>>>>>>> 24ccd35 (initial commit)
 au
 av
 aw
@@ -265,6 +269,10 @@ nz
 ob
 oc
 oe
+<<<<<<< HEAD
+=======
+of
+>>>>>>> 24ccd35 (initial commit)
 og
 oh
 ok
