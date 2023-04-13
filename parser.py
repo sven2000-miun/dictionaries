@@ -8,7 +8,7 @@ for each in remove:
             banned.add(each)
 
 file = open("eng_dict.txt", "w")
-with open("wordlist.10000", "r") as f:
+with open("dicts/wordlist.10000", "r") as f:
     for each in f.readlines():
         if each in banned:
             continue
