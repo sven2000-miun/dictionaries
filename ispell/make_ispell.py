@@ -185,7 +185,7 @@ for each in en_list:
                 out_dict.append(each.lower())
 
 
-file = open("../dicts/combined.txt", "w")
+file = open("combined.txt", "w")
 for each in out_dict:
     file.write(each)
 file.close()
