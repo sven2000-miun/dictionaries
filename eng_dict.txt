@@ -347,6 +347,7 @@ apart
 apartment
 apartments
 apnic
+app
 apparatus
 apparel
 apparent
@@ -445,6 +446,7 @@ artists
 arts
 artwork
 aruba
+as
 asbestos
 ascii
 asia
@@ -494,10 +496,7 @@ asthma
 astrology
 astronomy
 asus
-<<<<<<< HEAD
 at
-=======
->>>>>>> 24ccd35 (initial commit)
 athletes
 athletic
 athletics
@@ -846,6 +845,7 @@ bowling
 boxed
 boxes
 boxing
+boy
 boys
 bracelet
 bracelets
@@ -1079,10 +1079,6 @@ celtic
 cemetery
 census
 cent
-<<<<<<< HEAD
-center
-=======
->>>>>>> 24ccd35 (initial commit)
 centered
 centers
 centres
@@ -1264,10 +1260,7 @@ clip
 clips
 clock
 clocks
-<<<<<<< HEAD
 clockwise
-=======
->>>>>>> 24ccd35 (initial commit)
 clone
 close
 closed
@@ -1442,10 +1435,7 @@ composition
 compound
 compounds
 comprehensive
-<<<<<<< HEAD
 compres
-=======
->>>>>>> 24ccd35 (initial commit)
 compressed
 compression
 compromise
@@ -2097,10 +2087,7 @@ displayed
 displaying
 displays
 disposal
-<<<<<<< HEAD
 disposable
-=======
->>>>>>> 24ccd35 (initial commit)
 disposition
 dispute
 disputes
@@ -2217,6 +2204,7 @@ drug
 drugs
 drum
 drunk
+dry
 dryer
 dual
 dude
@@ -3266,6 +3254,7 @@ helps
 hence
 hentai
 hepatitis
+her
 herbal
 herbs
 here
@@ -3297,6 +3286,7 @@ hints
 hire
 hired
 hiring
+his
 hispanic
 hist
 historic
@@ -3333,10 +3323,7 @@ hopes
 hoping
 horizon
 horizontal
-<<<<<<< HEAD
 horizontally
-=======
->>>>>>> 24ccd35 (initial commit)
 hormone
 horn
 horny
@@ -4053,6 +4040,7 @@ losing
 loss
 losses
 lost
+lot
 lots
 loud
 lounge
@@ -4511,6 +4499,7 @@ neural
 neutral
 never
 nevertheless
+new
 newbie
 newer
 newest
@@ -4632,10 +4621,7 @@ oclc
 october
 odds
 oecd
-<<<<<<< HEAD
 of
-=======
->>>>>>> 24ccd35 (initial commit)
 offense
 offensive
 offer
@@ -5069,10 +5055,6 @@ point;10
 pointed;9
 pointer;9
 pointing
-<<<<<<< HEAD
-points
-=======
->>>>>>> 24ccd35 (initial commit)
 pokemon
 poker
 polar
@@ -5878,10 +5860,7 @@ rosa
 roses
 roster
 rotary
-<<<<<<< HEAD
 rotate
-=======
->>>>>>> 24ccd35 (initial commit)
 rotation
 rouge
 rough
@@ -6842,6 +6821,7 @@ thanks
 thanksgiving
 that
 thats
+the
 theater
 theaters
 theatre
@@ -7231,6 +7211,7 @@ urgent
 urls
 usage
 usda
+use
 used
 useful
 user
@@ -7614,9 +7595,11 @@ yeast
 yellow
 yes
 yesterday
+yet
 yield
 yields
 yoga
+you
 younger
 your
 yours
