@@ -40,11 +40,6 @@ am
 an
 ap
 ar
-as
-<<<<<<< HEAD
-=======
-at
->>>>>>> 24ccd35 (initial commit)
 au
 av
 aw
@@ -269,10 +264,6 @@ nz
 ob
 oc
 oe
-<<<<<<< HEAD
-=======
-of
->>>>>>> 24ccd35 (initial commit)
 og
 oh
 ok
@@ -441,7 +432,6 @@ ant
 any
 aol
 api
-app
 apr
 apt
 arg
@@ -472,7 +462,6 @@ bob
 boc
 bon
 box
-boy
 bra
 buf
 buy
@@ -537,7 +526,6 @@ dos
 dot
 dow
 dpi
-dry
 dsc
 dsl
 dts
@@ -598,10 +586,8 @@ gui
 gun
 guy
 hay
-her
 hey
 hip
-his
 hit
 hiv
 hon
@@ -687,7 +673,6 @@ loc
 log
 lol
 los
-lot
 lou
 ltd
 mac
@@ -732,7 +717,6 @@ nbc
 nec
 neo
 net
-new
 nfl
 nhl
 nhs
