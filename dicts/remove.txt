@@ -872,7 +872,6 @@ ten
 tex
 tft
 tgp
-the
 thu
 thy
 tie
@@ -904,7 +903,6 @@ usa
 usb
 usc
 usd
-use
 usr
 utc
 val
@@ -940,8 +938,6 @@ xml
 xxx
 yea
 yen
-yet
-you
 yrs
 zen
 zip
