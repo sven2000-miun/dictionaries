@@ -25,6 +25,8 @@ burn
 c
 c++
 c#
+curl
+url
 cache
 centralprocessingunit
 client
@@ -94,6 +96,9 @@ keyboard
 ksql
 key
 lte
+lexer
+log
+logger
 lte-sim
 machine
 macintosh(mac)
@@ -113,6 +118,7 @@ osi(7-layer)model
 overclock
 overheat
 pdf
+parser
 phishing
 python
 plug-in

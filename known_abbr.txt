@@ -199,7 +199,8 @@ b tam;basic telecommunications access method
 bw;bandwidth
 byod;bring your own device
 byte;by eight (group of 8 bits)
-ca;computer accountancy
+ca;certificate authority
+cacert;certificate authority certification
 cad;computer-aided design
 cae;computer-aided engineering
 caid;computer-aided industrial design
@@ -223,7 +224,6 @@ cd-r;cd-recordable
 cd-rom;cd read-only memory
 cd-rw;cd-rewritable
 cdsa;common data security architecture
-cert;computer emergency response team
 ces;consumer electronics show
 cf;compact flash
 cfd;computational fluid dynamics
@@ -642,6 +642,7 @@ imap;internet message access protocol
 ime;input method editor
 infosec;information systems security
 i/o;input/output
+io;input/output
 iot;internet of things
 ip;intellectual property
 ip;internet protocol
@@ -745,6 +746,7 @@ lcr;least cost routing
 lcos;liquid crystal on silicon
 ldap;lightweight directory access protocol
 le;logical extents
+lex;lexer
 led;light-emitting diode
 lf;line feed
 lf;low frequency
@@ -873,6 +875,7 @@ mtbf;mean time between failures
 mtu;maximum transmission unit
 mt;machine translation
 mua;mail user agent
+mult;multiplying
 mud;multi-user dungeon
 mu;memory unit
 mvc;model-view-controller
@@ -1098,6 +1101,7 @@ rdos;real-time disk operating system
 rdp;remote desktop protocol
 rds;remote data services
 refal;recursive functions algorithmic language
+rel;relative
 <li>rep—raid error propagation</li>
 rest;representational state transfer
 <li>resv—reservation message</li>
@@ -1217,6 +1221,7 @@ sloc;source lines of code
 sme;subject matter expert
 smf;single-mode (optical) fiber
 spm;software project management
+spec;specification
 spmd;single program, multiple data
 spof;single point of failure
 sma;subminiature version a
@@ -1515,7 +1520,7 @@ btn;button
 calc;calculator
 cb;callback
 cert;certificate
-ch;channel
+ch;character
 char;character
 chk;check
 csum;checksum
@@ -1639,6 +1644,7 @@ obj;object
 key;object key
 oct;octal
 op;operation
+ops;operations
 opt;option
 os;operating system
 ord;order
@@ -1646,6 +1652,7 @@ org;organization
 out;output
 param;parameter
 perf;performance
+pem;privacy enhanced mail
 pic;picture
 px;pixel
 ptr;pointer
@@ -1662,7 +1669,7 @@ pwr;power
 pub;public
 q;query
 qry;query
-r;radius
+r;right
 rand;random
 rng;range
 recv;receive

@@ -1,3 +1,4 @@
+a
 abandoned
 abilities
 ability
@@ -359,6 +360,7 @@ appearance
 appeared
 appearing
 appears
+append
 appendix
 apple
 appliance
@@ -737,6 +739,7 @@ billion
 bills
 binary
 bind
+binder
 binding
 bingo
 biodiversity
@@ -972,6 +975,7 @@ calendar
 calendars
 calibration
 calif
+call
 called
 calling
 calls
@@ -1119,7 +1123,7 @@ chaos
 chapel
 chapter
 chapters
-char
+charset
 character
 characteristic
 characteristics
@@ -2017,6 +2021,7 @@ diffs
 dig
 digest
 digit
+digits
 digital
 dildo
 dildos
@@ -3525,6 +3530,7 @@ infrastructure
 ingredients
 inherited
 initial
+initial
 initially
 initiated
 initiative
@@ -4426,6 +4432,7 @@ muslim
 muslims
 must
 muze
+my
 myanmar
 myers
 myself
@@ -4641,7 +4648,7 @@ offset
 offshore
 often
 oils
-oklahoma
+ok
 older
 oldest
 olympic
@@ -6344,6 +6351,7 @@ south
 southeast
 southern
 soviet
+split
 space
 spaces
 spam
@@ -6941,6 +6949,7 @@ toddler
 together
 toilet
 token
+tokens
 told
 tolerance
 toll
@@ -7147,6 +7156,7 @@ ultimately
 ultra
 ultram
 unable
+unary
 unauthorized
 unavailable
 uncertainty
